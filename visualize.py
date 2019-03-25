@@ -5,7 +5,6 @@ from bokeh.layouts import widgetbox
 from bokeh.models import ColumnDataSource
 from bokeh.models.widgets import DataTable, TableColumn
 
-
 df = pandas.read_csv('listings.csv')
 
 data = dict(

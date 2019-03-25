@@ -1,6 +1,6 @@
 # Nettiauto web scraper
 
-> Search for old American mini trucks from nettiauto.com
+> Search for old American mini trucks from nettiauto.com and show the results on a website.
 
 ## Quick Start
 
