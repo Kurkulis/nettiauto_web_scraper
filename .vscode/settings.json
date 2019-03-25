@@ -1,4 +1,4 @@
 {
-  "python.pythonPath": "/usr/local/bin/python3",
+  "python.pythonPath": "/Users/emilnuutinen/.local/share/virtualenvs/nettiauto_web_scraper-P6Minah1/bin/python",
   "python.linting.pylintEnabled": true
 }
