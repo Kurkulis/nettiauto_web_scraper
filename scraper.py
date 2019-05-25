@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from csv import writer
 
 response = requests.get(
-    'https://www.nettiauto.com/listAdvSearchFindAgent.php?id=175213966&tb=tmp_find_agent&PN[0]=adv_search&PL[0]=advSearch.php?id=175213966@posted_by=@tb=tmp_find_agent&id_model=358')
+    'https://www.nettiauto.com/listAdvSearchFindAgent.php?id=177303055&tb=tmp_find_agent&PN[0]=adv_search&PL[0]=advSearch.php?qs=Y?id=177303055@tb=tmp_find_agent&id_model=358')
 
 soup = BeautifulSoup(response.text, 'html.parser')
 
